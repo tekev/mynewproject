@@ -1,0 +1,9 @@
+Question-1: What are Java OOPS concepts?  Answer-1: Abstraction, Encapsulation, Inheritance and Polymorphism.
+
+Question-2: Difference between classes and objects?  Answer-2: Class is a template using which objects are created in memory.
+
+Question-3: What are static variables?  Answer-3: They correspond to class and not objects. All objects share that variable.
+
+Question-4: What are final methods?  Answer-4: Methods which cannot be overridden.
+
+Question-5: What is JRE?  Answer-5: Java RunTime Environment is the implementation of JVM.
